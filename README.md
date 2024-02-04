@@ -3,7 +3,7 @@ Expenses Tracker App made with OOP approach in JavaScript that can perform CRUD 
 
 <hr>
 <b>Key Feature:</b></br>
--> Create, Read, Update and Deletion of tasks </br>
+-> Create, Read, Update and Deletion of expenses </br>
 -> Clean and simple UI to focus more on JS logic </br>
 -> Bootstrap CDN for responsiveness in mobile device </br>
 -> Optimized event handling </br>
